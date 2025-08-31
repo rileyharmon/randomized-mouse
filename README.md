@@ -1,3 +1,4 @@
+RANDOM-MOUSE-V2.py
 Random human-like mouse mover
 
 randomized lateral and curved mouse movements within 65% of screen center point, including randomized scrolling, randomized clicks
@@ -11,3 +12,4 @@ F9: Toggle clicks
 F10: Toggle scrolling
 
 Esc: Exit
+
