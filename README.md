@@ -5,6 +5,9 @@ randomized lateral and curved mouse movements within 65% of screen center point,
 uses c-types for hardware level input injection
 
 F8: Start/Stop mover
+
 F9: Toggle clicks
+
 F10: Toggle scrolling
+
 Esc: Exit
